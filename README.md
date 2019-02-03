@@ -1,0 +1,6 @@
+README
+
+
+just type bash
+
+
